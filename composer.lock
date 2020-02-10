@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2893a76553b7c60d8ecb6e78e5562436",
+    "content-hash": "79a7d50555c25f64f166f5c217b15dd1",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -4736,7 +4736,7 @@
         },
         {
             "name": "symfony/process",
-            "version": "v4.4.3",
+            "version": "v4.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
